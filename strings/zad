@@ -1,0 +1,26 @@
+codeforces.com/conests/117/problem/D
+
+vuvejdat se 2 stringa a, b. 
+podzadacha 1)Duljinata im e <= 100000
+podzadacha 2)Duljinata im e <= 1000000
+kakuv e broqt na stringovete, 
+koito kato povtorim x puti shte poluchim a,
+i     kato povtorim y puti shte poluchim b.
+
+x>=1 i y>=1
+
+input:
+abbaabbaabbaabba
+abbaabba
+
+output:
+2
+
+explanation: abba, abbaabba
+
+input:
+ababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxx
+ababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxxababacababacabadababacababacabadababacaxxxx
+
+output:
+2

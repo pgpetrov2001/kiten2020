@@ -1,0 +1,77 @@
+5
+a	
+cedfd
+
+abcxydfdcba
+
+pr = abc
+suf = dfdcba
+
+pr+suf = abcdfdcba
+
+abbaxyzyx
+codeforces
+acbba
+
+a
+abcdfdcba
+xyzyx
+c
+abba
+
+yyyyyyyyyyyyyy
+xxxXx
+ xxxxx
+   xxxxx
+
+abbababbababbab
+a - 0
+ab - 0
+abb - 0
+abba - 1
+abbab - 2
+abbaba - 1
+abbabab - 2
+abbababb - 3
+abbababba - 4
+abbababbab - 5 abbababbab 
+abbababbaba - 6
+abbababbabab - 7
+abbababbababb - 8
+abbababbababba -
+
+ababababababababba
+abbabbaaaababbabbbaabbaabbb
+
+1a - 0
+2ab - 0
+3abb - 0
+abba - 1
+abbab - 2
+abbabb - 3  
+abbabba - 4
+abbabbaa - 1
+abbabbaaa - 1
+abbabbaaaa - 1
+abbabbaaaab - 2
+abbabbaaaaba - 1
+abbabbaaaabab - 2
+abbabbaaaababb - 3
+abbabbaaaababba - 4
+abbabbaaaababbab - 5
+abbabbaaaababbabb - 6
+abbabbaaaababbabbb
+abbabb - abb
+a - 0
+ab - ''
+
+abbabbcxxxxxxxxxxxxabbabb - abbabb
+abbabbcxxxxxxxxxxxxabbabbb - ''
+abbabb - abb
+abb - ''
+
+abbababba - abba
+abbababbab - abbab
+
+abbababbabcxxxxxxxabbababbab - abbababbab 
+abbababbabcxxxxxxxabbababbaba -  abbaba

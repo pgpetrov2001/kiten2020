@@ -1,0 +1,19 @@
+vuvejda se tablica s chisla, vsiako chislo oznachava kolko domata ima v kletkata.
+ima lakomnik koito zapochva ot goren liav ugul i moje da se dviji samo nadiasno i nadolu.
+Lakomnika triabva da stigne do dolen desen ugul i da subere vuzmojno nai goliam broi domati.
+Lakomnika vzima domatite ot kletki prez koito minava.
+
+C++!!!!!!!!!!!!!!!!!!!!!!!
+
+podzadacha 1) kolko nai mnogo domati moje da vzeme stigaiki ot goren liav do dolen desen ugul
+podzadacha 2) prez koi kletki moje da mine za da vzeme nai golemia broi domati
+
+5 4
+1 2 1 1
+3 2 1 2
+1 4 2 1
+1 1 5 1
+1 1 2 2
+
+podz 1) 21
+podz 2) 0,0; 1,0; 1,1; 2,1; 2,2; 3,2; 4,2; 4,3;

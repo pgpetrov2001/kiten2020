@@ -1,0 +1,7 @@
+
+dfs(vruh, supportnat li e ot roditelia si):
+    nekuv kod
+
+dp[i][x] - za decata na vurha do tova s index i vuv spisuka na susedite mu,
+po kolko nachina mojem da gi ocvetim taka che da supportvat vurha(x=1) 
+ili da ne supportvat vurha(x=0)

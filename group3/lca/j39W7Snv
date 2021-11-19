@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', "UA-58643-34");
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>dafiegei - Pastebin.com</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
+        <meta property="fb:app_id" content="231493360234820" />
+    <meta property="og:title" content="dafiegei - Pastebin.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pastebin.com/j39W7Snv" />
+    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+    <meta property="og:site_name" content="Pastebin" />
+    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+    <link rel="canonical" href="https://pastebin.com/j39W7Snv" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="Lcm2PKOvDSlLYdO3MpQGL3No1GDNIekqfdE9P3GIzCVknMMIkNs8Hy1UtoJ_10hkSgqzBoEV2kgwhU1sIvu1Xw==">
+
+<link href="/assets/c093bd59/css/bootstrap.min.css" rel="stylesheet">    
+<link href="/themes/pastebin/css/vendors.bundle.css?68ab9b3244411ae15829" rel="stylesheet">
+<link href="/themes/pastebin/css/app.bundle.css?68ab9b3244411ae15829" rel="stylesheet">
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21892923737/pb_header_728x90', [[728, 90], [468, 60], [970, 90]], 'gpt-passback').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_footer_728x90', [[728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1593095439111-0').addService(googletag.pubads());
+        googletag.defineSlot('/21892923737/pb_sidebar_120x600', [[160, 600], [120, 600]], 'div-gpt-ad-1593095572267-0').addService(googletag.pubads());
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID: 'fcfacf81-21b4-42d5-b3bd-672af22fe303',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+    });
+    // request the bids for the four googletag slots
+    apstag.fetchBids({
+        slots: [
+            {
+                slotID: 'gpt-passback', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_header_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095439111-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_footer_728x90', //example: //example: /116082170/slot2
+                sizes: [[728, 90], [468, 60], [970, 90]] //example: [[300,250],[300, 600]]
+            },
+            {
+                slotID: 'div-gpt-ad-1593095572267-0', //example: div-gpt-ad-1475102693815-0
+                slotName: '/21892923737/pb_sidebar_120x600', //example: //example: /116082170/slot2
+                sizes: [[160, 600], [120, 600]] //example: [[300,250],[300, 600]]
+            },
+            // {
+            //   slotID: 'enter your slotID',
+            //   slotName: 'enter your DFP ad unit path',
+            //   sizes: [[width, height], [width, height]]
+            // }
+        ]
+    }, function (bids) {
+        // set apstag bids, then trigger the first request to DFP
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+</script>
+</head>
+<body class="">
+
+
+
+<div class="wrap">
+
+    <!-- Header -->
+    
+        
+<div class="header">
+    <div class="container">
+        <div class="header__container">
+
+            <!-- left -->
+            <div class="header__left">
+                <a class="header__logo" href="/">
+                    Pastebin                </a>
+
+                <div class="header__links h_1024">
+                                            <a href="/pro" class="pro">GO</a>
+                    
+                    <a href="/doc_api">API</a>
+                    <a href="/tools">tools</a>
+                    <a href="/faq">faq</a>
+                                    </div>
+
+                
+                <a class="header__btn" href="/">
+                    paste                </a>
+            </div>
+
+            <!-- right -->
+            <div class="header__right">
+
+                                    <div class="header_sign">
+                        <a href="/login" class="btn-sign sign-in">Sign in</a>
+                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+        
+
+    <div class="container">
+        <div class="content">
+
+            <!-- Leaderboard Below Header -->
+            <div class="special__header">
+    <div id="gpt-passback">
+        <script>
+            googletag.cmd.push(function() { googletag.display("gpt-passback"); });
+        </script>
+    </div>
+</div>
+            <!-- Content -->
+                        
+            
+            
+<link href="https://pastebin.com/themes/pastebin/css/geshi/light/cpp.css?1596735063" rel="stylesheet">
+
+<div class="post-view">
+
+    <div class="details">
+        <div class="share h_800">
+            <div data-key="j39W7Snv" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
+            <div data-key="j39W7Snv" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
+        </div>
+        <div class="user-icon">
+                            <img src="/themes/pastebin/img/guest.png" alt="Guest User">                    </div>
+        <div class="info-bar">
+            <div class="info-top">
+
+                
+                
+                <h1>dafiegei</h1>
+            </div>
+            <div class="info-bottom">
+
+                                    <div class="username">
+                        a guest                    </div>
+                
+                <div class="date">
+                    <span title="Sunday 23rd of August 2020 12:26:31 AM CDT">Aug 23rd, 2020</span>
+
+                                    </div>
+
+                <div class="visits" title="Unique visits to this paste">
+                    26                </div>
+
+                <div class="expire" title="When this paste gets automatically deleted">
+                    Never                </div>
+            </div>
+        </div>
+    </div>
+
+                        <div class="page">
+                <div class="content__text -no-padding">
+                    <div class="notice -post-view">
+                        <b>Not a member of Pastebin yet?</b>
+                        <a href="/signup"><b><u>Sign Up</u></b></a>,
+                        it unlocks many cool features!                    </div>
+                </div>
+            </div>
+        
+    
+    <div class="highlighted-code">
+        <div class="top-buttons">
+            <div class="left">
+                <a href="/archive/cpp" class="btn -small h_800">C++</a> 1.67 KB            </div>
+
+            <div class="right">
+                <a href="/raw/j39W7Snv" class="btn -small">raw</a>
+                <a href="/dl/j39W7Snv" class="btn -small">download</a>
+                <a href="/clone/j39W7Snv" class="btn -small h_800">clone</a>
+                <a href="/embed/j39W7Snv" class="btn -small h_800">embed</a>
+                <a href="/report/j39W7Snv" class="btn -small">report</a>
+                <a href="/print/j39W7Snv" class="btn -small h_800">print</a>
+
+                
+                            </div>
+        </div>
+        <div class="source" style=" ">
+            <ol class="cpp"><li class="li1"><div class="de1"><span class="co2">#include &lt;bits/stdc++.h&gt;</span></div></li>
+<li class="li1"><div class="de1"><span class="kw2">using</span> <span class="kw2">namespace</span> std<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">const</span> <span class="kw4">int</span> MAX_N <span class="sy1">=</span> <span class="nu19">1e5</span> <span class="sy2">+</span> <span class="nu0">10</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">int</span> tree<span class="br0">&#91;</span><span class="nu0">4</span> <span class="sy2">*</span> MAX_N<span class="br0">&#93;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1"><span class="kw4">int</span> arr<span class="br0">&#91;</span>MAX_N<span class="br0">&#93;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">vector<span class="sy1">&lt;</span><span class="kw4">int</span><span class="sy1">&gt;</span> g<span class="br0">&#91;</span>MAX_N<span class="br0">&#93;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">void</span> upd<span class="br0">&#40;</span><span class="kw4">int</span> curr, <span class="kw4">int</span> l, <span class="kw4">int</span> r, <span class="kw4">int</span> ind, <span class="kw4">int</span> val<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">if</span><span class="br0">&#40;</span>l <span class="sy1">==</span> r <span class="sy3">&amp;&amp;</span> l <span class="sy1">==</span> ind<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; tree<span class="br0">&#91;</span>curr<span class="br0">&#93;</span> <span class="sy1">=</span> val<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw1">return</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span> <span class="kw1">else</span> <span class="kw1">if</span><span class="br0">&#40;</span>ind <span class="sy1">&gt;</span> r <span class="sy3">||</span> ind <span class="sy1">&lt;</span> l<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw1">return</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw4">int</span> m <span class="sy1">=</span> <span class="br0">&#40;</span>l <span class="sy2">+</span> r<span class="br0">&#41;</span> <span class="sy2">/</span> <span class="nu0">2</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; upd<span class="br0">&#40;</span>curr <span class="sy2">*</span> <span class="nu0">2</span>, l, m, ind, val<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; upd<span class="br0">&#40;</span>curr <span class="sy2">*</span> <span class="nu0">2</span> <span class="sy2">+</span> <span class="nu0">1</span>, m <span class="sy2">+</span> <span class="nu0">1</span>, r, ind, val<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; tree<span class="br0">&#91;</span>curr<span class="br0">&#93;</span> <span class="sy1">=</span> tree<span class="br0">&#91;</span>curr <span class="sy2">*</span> <span class="nu0">2</span><span class="br0">&#93;</span> <span class="sy2">+</span> tree<span class="br0">&#91;</span>curr <span class="sy2">*</span> <span class="nu0">2</span> <span class="sy2">+</span> <span class="nu0">1</span><span class="br0">&#93;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1"><span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">int</span> sum<span class="br0">&#40;</span><span class="kw4">int</span> curr, <span class="kw4">int</span> l, <span class="kw4">int</span> r, <span class="kw4">int</span> ql, <span class="kw4">int</span> qr<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">if</span><span class="br0">&#40;</span>l <span class="sy1">&gt;</span> qr <span class="sy3">||</span> r <span class="sy1">&lt;</span> ql<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw1">return</span> <span class="nu0">0</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span> <span class="kw1">else</span> <span class="kw1">if</span><span class="br0">&#40;</span>ql <span class="sy1">&lt;=</span> l <span class="sy3">&amp;&amp;</span> r <span class="sy1">&lt;=</span> qr<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw1">return</span> tree<span class="br0">&#91;</span>curr<span class="br0">&#93;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw4">int</span> m <span class="sy1">=</span> <span class="br0">&#40;</span>l <span class="sy2">+</span> r<span class="br0">&#41;</span> <span class="sy2">/</span> <span class="nu0">2</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">return</span> sum<span class="br0">&#40;</span>curr <span class="sy2">*</span> <span class="nu0">2</span>, l, m, ql, qr<span class="br0">&#41;</span> <span class="sy2">+</span> sum<span class="br0">&#40;</span>curr <span class="sy2">*</span> <span class="nu0">2</span> <span class="sy2">+</span> <span class="nu0">1</span>, m <span class="sy2">+</span> <span class="nu0">1</span>, r, ql, qr<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1"><span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">int</span> in<span class="br0">&#91;</span>MAX_N<span class="br0">&#93;</span>, out<span class="br0">&#91;</span>MAX_N<span class="br0">&#93;</span>, tme <span class="sy1">=</span> <span class="nu0">0</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">int</span> n, q<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">void</span> dfs<span class="br0">&#40;</span><span class="kw4">int</span> x, <span class="kw4">int</span> p<span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; in<span class="br0">&#91;</span>x<span class="br0">&#93;</span> <span class="sy1">=</span> tme<span class="sy4">;</span><span class="co1">//tme = red.size() - 1;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; upd<span class="br0">&#40;</span><span class="nu0">1</span>, <span class="nu0">0</span>, n <span class="sy2">-</span> <span class="nu0">1</span>, tme, arr<span class="br0">&#91;</span>x<span class="br0">&#93;</span><span class="br0">&#41;</span><span class="sy4">;</span>\</div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="co1">//red.push_back(x);</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; tme <span class="sy2">++</span><span class="sy4">;</span><span class="co1">//tme = red.size() - 1;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">for</span><span class="br0">&#40;</span><span class="kw4">auto</span> it <span class="sy4">:</span> g<span class="br0">&#91;</span>x<span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw1">if</span><span class="br0">&#40;</span>it <span class="sy1">==</span> p<span class="br0">&#41;</span> <span class="br0">&#123;</span><span class="kw1">continue</span><span class="sy4">;</span><span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; dfs<span class="br0">&#40;</span>it, x<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; out<span class="br0">&#91;</span>x<span class="br0">&#93;</span> <span class="sy1">=</span> tme <span class="sy2">-</span> <span class="nu0">1</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1"><span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1"><span class="sy4">:</span>wq<span class="sy4">:</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+<li class="li1"><div class="de1"><span class="kw4">int</span> main<span class="br0">&#40;</span><span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> n<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">for</span><span class="br0">&#40;</span><span class="kw4">int</span> i <span class="sy1">=</span> <span class="nu0">1</span><span class="sy4">;</span> i <span class="sy1">&lt;=</span> n<span class="sy4">;</span> i <span class="sy2">++</span><span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> arr<span class="br0">&#91;</span>i<span class="br0">&#93;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">for</span><span class="br0">&#40;</span><span class="kw4">int</span> i <span class="sy1">=</span> <span class="nu0">1</span><span class="sy4">;</span> i <span class="sy1">&lt;</span> n<span class="sy4">;</span> i <span class="sy2">++</span><span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw4">int</span> a, b<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> a <span class="sy1">&gt;&gt;</span> b<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; g<span class="br0">&#91;</span>a<span class="br0">&#93;</span>.<span class="me1">push_back</span><span class="br0">&#40;</span>b<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; g<span class="br0">&#91;</span>b<span class="br0">&#93;</span>.<span class="me1">push_back</span><span class="br0">&#40;</span>a<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> q<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; dfs<span class="br0">&#40;</span><span class="nu0">1</span>, <span class="nu0">0</span><span class="br0">&#41;</span><span class="sy4">;</span> &nbsp; &nbsp;</div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="kw1">while</span><span class="br0">&#40;</span>q <span class="sy2">--</span><span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw4">int</span> t<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> t<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="kw1">if</span><span class="br0">&#40;</span>t <span class="sy1">==</span> <span class="nu0">1</span><span class="br0">&#41;</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="kw4">int</span> a<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> a<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="kw3">cout</span> <span class="sy1">&lt;&lt;</span> sum<span class="br0">&#40;</span><span class="nu0">1</span>, <span class="nu0">0</span>, n <span class="sy2">-</span> <span class="nu0">1</span>, in<span class="br0">&#91;</span>a<span class="br0">&#93;</span>, out<span class="br0">&#91;</span>a<span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="sy1">&lt;&lt;</span> endl<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="br0">&#125;</span> <span class="kw1">else</span> <span class="br0">&#123;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="kw4">int</span> a, b<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="kw3">cin</span> <span class="sy1">&gt;&gt;</span> a <span class="sy1">&gt;&gt;</span> b<span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; upd<span class="br0">&#40;</span><span class="nu0">1</span>, <span class="nu0">0</span>, n <span class="sy2">-</span> <span class="nu0">1</span>, in<span class="br0">&#91;</span>a<span class="br0">&#93;</span>, b<span class="br0">&#41;</span><span class="sy4">;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; &nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp; &nbsp; <span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1"><span class="br0">&#125;</span></div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+</ol>        </div>
+    </div>
+
+            <div class="content__title -no-border">
+            RAW Paste Data        </div>
+
+        <textarea class="textarea">#include &lt;bits/stdc++.h&gt;
+using namespace std;
+
+const int MAX_N = 1e5 + 10;
+
+int tree[4 * MAX_N];
+int arr[MAX_N];
+vector&lt;int&gt; g[MAX_N];
+
+void upd(int curr, int l, int r, int ind, int val) {
+    if(l == r &amp;&amp; l == ind) {
+        tree[curr] = val;
+        return;
+    } else if(ind &gt; r || ind &lt; l) {
+        return;
+    }
+    int m = (l + r) / 2;
+    upd(curr * 2, l, m, ind, val);
+    upd(curr * 2 + 1, m + 1, r, ind, val);
+    tree[curr] = tree[curr * 2] + tree[curr * 2 + 1];
+}
+
+int sum(int curr, int l, int r, int ql, int qr) {
+    if(l &gt; qr || r &lt; ql) {
+        return 0;
+    } else if(ql &lt;= l &amp;&amp; r &lt;= qr) {
+        return tree[curr];
+    }
+    int m = (l + r) / 2;
+    return sum(curr * 2, l, m, ql, qr) + sum(curr * 2 + 1, m + 1, r, ql, qr);
+}
+
+int in[MAX_N], out[MAX_N], tme = 0;
+
+int n, q;
+
+void dfs(int x, int p) {
+    in[x] = tme;//tme = red.size() - 1;
+    upd(1, 0, n - 1, tme, arr[x]);\
+    //red.push_back(x);
+    tme ++;//tme = red.size() - 1;
+
+    for(auto it : g[x]) {
+        if(it == p) {continue;}
+        dfs(it, x);
+    }
+    out[x] = tme - 1;
+}
+:wq:
+
+int main() {
+    cin &gt;&gt; n;
+    for(int i = 1; i &lt;= n; i ++) {
+        cin &gt;&gt; arr[i];
+    }
+    for(int i = 1; i &lt; n; i ++) {
+        int a, b;
+        cin &gt;&gt; a &gt;&gt; b;
+        g[a].push_back(b);
+        g[b].push_back(a);
+    }
+    cin &gt;&gt; q;
+    dfs(1, 0);    
+    while(q --) {
+        int t;
+        cin &gt;&gt; t;
+        if(t == 1) {
+            int a;
+            cin &gt;&gt; a;
+            cout &lt;&lt; sum(1, 0, n - 1, in[a], out[a]) &lt;&lt; endl;
+        } else {
+            int a, b;
+            cin &gt;&gt; a &gt;&gt; b;
+            upd(1, 0, n - 1, in[a], b);
+        }
+    }
+}
+</textarea>
+    
+    <!-- Leaderboard Mid Footer -->
+    <div class="special__footer">
+    <!-- /21892923737/pb_footer_728x90 -->
+    <div id="div-gpt-ad-1593095439111-0" style="width: 728px; height: 90px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095439111-0"); });
+        </script>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="sidebar h_1024">
+            
+<!-- Private Posts -->
+
+<!-- Public Posts -->
+
+                
+    <div class="sidebar__title">
+        <a href="/archive">Public Pastes</a>
+    </div>
+    <ul class="sidebar__menu">
+
+                    <li>
+                <a href="/PqyBXSnq">22augsnippet</a>
+                <div class="details">
+                                            HTML |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/Pu7Evunj">Updater</a>
+                <div class="details">
+                                            Lua |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/WFKurfMC">Signal Extender</a>
+                <div class="details">
+                                            Lua |
+                    
+                    1 hour ago                </div>
+            </li>
+                    <li>
+                <a href="/4NLJueui">Most of the DLC Move Effects</a>
+                <div class="details">
+                                            Ruby |
+                    
+                    3 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/C3PtdeGq">Cambiar nombre a un clan</a>
+                <div class="details">
+                                            SQL |
+                    
+                    4 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/bqUpuBbV">maybe.c</a>
+                <div class="details">
+                                            C |
+                    
+                    4 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/QFjT2pC7">endpoints.js</a>
+                <div class="details">
+                                            JavaScript |
+                    
+                    6 hours ago                </div>
+            </li>
+                    <li>
+                <a href="/A8QtxYTw">middleware.js</a>
+                <div class="details">
+                                            JavaScript |
+                    
+                    6 hours ago                </div>
+            </li>
+        
+    </ul>
+            
+
+
+<!-- Skyscraper Right -->
+<div class="special__sidebar">
+    <!-- /21892923737/pb_sidebar_120x600 -->
+    <div id="div-gpt-ad-1593095572267-0">
+        <script>
+            googletag.cmd.push(function() { googletag.display("div-gpt-ad-1593095572267-0"); });
+        </script>
+    </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+
+    
+<div class="top-footer">
+    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
+    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
+    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
+    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
+    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
+    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
+    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
+    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <div class="footer__left">
+                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_scraping_api">scraping api</a>
+                <br>
+                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_terms_of_service">terms of service</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
+                <a href="/contact">contact</a>
+                <br><br>
+
+                
+<span class="footer__bottom h_800">
+    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+    <br>
+    Site design &amp; logo &copy; 2020 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a>
+</span>
+            </div>
+
+            <div class="footer__right h_1024">
+                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
+                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
+                            </div>
+
+        </div>
+    </div>
+</footer>
+    
+
+<!-- Popup messages -->
+
+    
+<div class="popup-container">
+
+    <!-- Cookies Policy -->
+            <div class="popup-box -cookies" data-name="l2c_1">
+            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
+        </div>
+    
+    <!-- Signup -->
+            <div class="popup-box -pro" data-name="l2c_2_pg">
+            <div class="pro-promo-img">
+                <a href="/signup">
+                    <img src="/themes/pastebin/img/hello.png" alt=""/>
+                </a>
+            </div>
+            <div class="pro-promo-text">
+                Not a member of Pastebin yet?<br/>
+                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
+            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
+        </div>
+    
+    <!-- PRO -->
+    
+    <!-- Dark theme -->
+    
+</div>
+    
+
+<!-- Button for scroll page to top -->
+<span class="cd-top"></span>
+
+<script src="/assets/ae9b8d97/jquery.min.js"></script>
+<script src="/assets/1745bc3b/yii.js"></script>
+<script src="/themes/pastebin/js/vendors.bundle.js?68ab9b3244411ae15829"></script>
+<script src="/themes/pastebin/js/app.bundle.js?68ab9b3244411ae15829"></script>
+</body>
+</html>

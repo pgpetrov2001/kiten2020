@@ -1,0 +1,18 @@
+https://codeforces.com/contest/1398/problem/C
+
+ima redica ot cifri(chisla ot 0 do 9) s duljina n
+
+n<=100000
+
+triabva da se izvede broq podmasivi, za koito e viarno che duljinata im e ravna na sumata cifrite v 
+podmasiv
+
+hint:
+103264239623748526124
+103264239 - sum=30, len=9, sum-len=21
+623748 - sum=30, len=6, sum-len=24
+103264239623748 - sum=30+30, len=9+6, sum-len=21+24
+pref[i] = do itia element kakva razlika na sum i len
+
+n = 3
+1 2 0

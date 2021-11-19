@@ -1,0 +1,70 @@
+bxabcabyabcabxabcaby
+abcabxabcabyabcabxabcabx
+abcabxabcabyabcabxabcabc
+abcabxabcabyabcabxabcaba
+abcabxabcabyabcabxabcabe
+
+abcabxabcab
+
+
+aaaaaaaaa
+
+abcdefabcdefab
+
+a - 0
+ab - 0
+abc - 0
+abcd - 0
+abcde - 0
+abcdef - 0
+abcdefa - 1
+abcdefab - 2
+abcdefabc - 3
+abcdefabcd - 4
+abcdefabcde - 5
+abcdefabcdef - 6
+abcdefabcdefa - 7
+abcdefabcdefab - 8
+
+bxabcabyabcabxabcaby
+
+b - 0
+bx - 0
+bxa - 0
+bxab - 1
+bxabc - 0
+bxabca - 0
+bxabcab - 1
+bxabcaby - 0
+bxabcabya - 0
+bxabcabyab - 1
+bxabcabyabc - 0
+bxabcabyabca - 0
+bxabcabyabcab - 1
+bxabcabyabcabx - 2
+bxabcabyabcabxa - 3
+bxabcabyabcabxab - 4
+bxabcabyabcabxabc - 5
+bxabcabyabcabxabca - 6
+bxabcabyabcabxabcab - 7
+bxabcabyabcabxabcabb - 1
+
+__z___________z
+
+
+
+abcabxabcabyabcabxabcabc
+
+ab - 0
+abcab - 2
+abcabxabcab - 5
+abcabxabcabyabcabxabcab - 11
+abcabxabcabyabcabxabcabb - 0
+
+---______---
+_________
+   _________
+abcabcabcabc
+
+if lsp[n] > n/2:
+    if n%(n - lsp[n]) == 0
